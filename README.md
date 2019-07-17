@@ -1,1 +1,1 @@
-# Blackjack-in-python
+This is a traditional command line interface blackjack card game that I implemented to get hands-on experience with Python. I included the Colorama library within this project to add some creative coloring to the dealt cards that are displayed accordingly inside the terminal window.
