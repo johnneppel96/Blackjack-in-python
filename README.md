@@ -1,1 +1,3 @@
 This is a traditional command line interface blackjack card game. I implemented this project in my spare time in order to obtain hands-on experience with coding in Python. I included the Colorama library within this project to add some creative coloring to the dealt cards that are displayed accordingly inside the terminal window.
+To run this program, execute the BlackJackTable.py file within the terminal. In order for Python's colorama library to work accordingly on my Windows 10 laptop, I needed to install Ansicon from https://github.com/adoxa/ansicon/downloads
+Without installing Ansicon, the colors would not appear and the corresponding codes that Colorama uses for colors would be printed instead.
